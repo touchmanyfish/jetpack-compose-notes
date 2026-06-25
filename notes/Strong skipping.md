@@ -1,9 +1,4 @@
-## 参与智能重组的前提
-
-## enableStrongSkippingMode
-
-### 官方文档
-[官方文档:Strong skipping mode](https://developer.android.com/develop/ui/compose/performance/stability/strongskipping#avoid-memoization)
+# StrongSkippingMode
 
 ### 开启和关闭
 从Kotlin 2.0.20开始默认开启Strong skipping.

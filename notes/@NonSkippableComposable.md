@@ -1,5 +1,5 @@
+# @NonSkippableComposable
 
-## 被@NonSkippableComposable标记的函数
 被@NonSkippableComposable标记的函数的parent函数重组时，无论parent传递给它的参数是否变化，它总是被重组。
 
 ## 例子

@@ -1,4 +1,5 @@
-## derivedOf()
+# derivedOf()
+
 ```kotlin
 val state = derivedStateOf(lambda)
 ```
